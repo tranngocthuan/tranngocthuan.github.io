@@ -320,7 +320,9 @@ img {
     position: relative;
     background-image: url(../img/bg/header-bg.jpg);
     background-size: cover;
-    background-position: center center;
+    /*background-position: center top;*/
+    background-position: 0px -90px;
+    /*background-position: center center;*/
     background-attachment: fixed;
 }
 
