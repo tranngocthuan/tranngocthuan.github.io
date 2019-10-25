@@ -1,0 +1,55 @@
+/* ========= Color 1 ========== */
+a,
+.toplinks > a:hover,
+a:hover,
+.toplinks > a:hover i,
+.weather-city,
+.shares,
+.trending h3,
+.grid-post h2 a:hover,
+.thumb-post > h2 a:hover,
+.flickity-enabled .flickity-prev-next-button:hover:before,
+.other-post > h3 a:hover,
+.personalize > a:hover i,
+.subtitle,
+.links-box ul li a:hover,
+.line-title i,
+.publish-news .featured-btns a:hover,
+.publish-news .featured-btns a:hover i,
+.register-form .checkfield > input ~ label a,
+.breadcrumbs > li,
+.print i,
+.field > button i,
+ul.trending i,
+.publish-form .checkfield > input ~ label a,
+.customer-center > p span,
+.editorial-contact li span,
+.owl-nav > div:hover:before,
+.yourpost-info > li i,
+.error-page h1,
+.search-result h3 span{
+	color:#3385cd;
+}
+
+.simple-btn,
+.category > a,
+.share-post > a:hover,
+.top-btn,
+.icon-btn:hover,
+a.gray-btn:hover,
+.register-benifits,
+.number-field > i,
+.thumbs > i,
+.widget .benifit,
+.positions > h4 i,
+.earinings-widget .progress .progress-bar:before,
+.pagination li a.current{
+	background-color:#3385cd;
+}
+
+.share-post > a:hover,
+.icon-btn:hover,
+.publish-news .featured-btns a,
+.thumbs.active > img{
+	border-color:#3385cd;
+}
